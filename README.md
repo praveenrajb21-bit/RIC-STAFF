@@ -1,2 +1,2 @@
 # RIC-STAFF
-Its a staff portal which is for the checklist and make it as FFA application
+GUIDE TO FLY WITH US  
